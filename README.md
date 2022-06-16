@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khansalikaziz&show_icons=true&locale=en" alt="khansalikaziz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khansalikaziz&" alt="khansalikaziz" /></p>
+<a href="http://www.github.com/khansalikaziz"><img src="https://activity-graph.herokuapp.com/graph?username=khansalikaziz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
