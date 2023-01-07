@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **khansalikaziz786@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1CnXe1qQWaBOtpeP-GOnpq2e9syA9jpqicIH4ZArkyY8/edit?usp=drivesdk](https://docs.google.com/document/d/1CnXe1qQWaBOtpeP-GOnpq2e9syA9jpqicIH4ZArkyY8/edit?usp=drivesdk)
+- 📄 Know about my experiences ([https://docs.google.com/document/d/1CnXe1qQWaBOtpeP-GOnpq2e9syA9jpqicIH4ZArkyY8/edit?usp=drivesdk](https://drive.google.com/file/d/1h0oYRizCVWQApanQUu1ciC0k25xJk2mc/view?usp=sharing))
 
 - ⚡ Play Store link **https://play.google.com/store/apps/developer?id=Salik+Aziz+Khan**
 
